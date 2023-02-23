@@ -1,4 +1,4 @@
-### I need a life :(
+### Developing novel magnetic structures requires a surprisingly enormous amount of coding 
 
 <!--
 **roarkchao/roarkchao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
